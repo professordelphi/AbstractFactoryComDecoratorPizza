@@ -4,9 +4,9 @@ import com.pizza.CheesePizza;
 import com.pizza.decorator.IPizzaDecorator;
 import com.pizza.decorator.molho.MolhoDecorator;
 import com.pizza.decorator.oregano.OreganoDecorator;
-import com.pizza.factory.PizzaStore;
-import com.pizza.filial.PizzaFilialAracaju;
-import com.pizza.filial.PizzaFilialSalvador;
+import com.pizza.fabrica.filial.PizzaFilialAracaju;
+import com.pizza.fabrica.filial.PizzaFilialSalvador;
+import com.pizza.store.order.PizzaStore;
 
 public class Principal {
 

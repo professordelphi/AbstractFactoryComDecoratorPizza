@@ -33,9 +33,6 @@ public class CheesePizza implements IPizza,IPizzaDecorator {
 	public void bake() {
 		// TODO Auto-generated method stub
 System.out.println("Bake Pizza - CheesePizza - tradicional");
-
-
-
 	}
 
 	/* (non-Javadoc)

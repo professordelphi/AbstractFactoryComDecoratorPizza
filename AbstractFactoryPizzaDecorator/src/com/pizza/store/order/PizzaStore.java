@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.pizza.factory;
+package com.pizza.store.order;
 
 import com.pizza.IPizza;
 
@@ -10,7 +10,7 @@ import com.pizza.IPizza;
  *
  */
 public abstract class PizzaStore {
-//	SimplePizzaFactory factory=new SimplePizzaFactory();
+
 	/**
 	 * 
 	 */

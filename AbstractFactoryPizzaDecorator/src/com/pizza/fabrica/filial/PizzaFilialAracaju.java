@@ -1,10 +1,9 @@
-package com.pizza.filial;
+package com.pizza.fabrica.filial;
 
-import com.pizza.CheesePizza;
 import com.pizza.CheesePizzaAracaju;
 import com.pizza.IPizza;
 import com.pizza.PresuntoPizza;
-import com.pizza.factory.PizzaStore;
+import com.pizza.store.order.PizzaStore;
 
 public class PizzaFilialAracaju extends PizzaStore {
 

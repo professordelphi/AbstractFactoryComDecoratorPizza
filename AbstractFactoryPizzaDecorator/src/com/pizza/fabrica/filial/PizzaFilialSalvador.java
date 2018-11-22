@@ -1,12 +1,9 @@
-package com.pizza.filial;
+package com.pizza.fabrica.filial;
 
-import com.pizza.CheesePizza;
-import com.pizza.CheesePizzaAracaju;
-import com.pizza.CheesePizzaEspecialAmericano;
 import com.pizza.CheesePizzaSalvador;
 import com.pizza.IPizza;
 import com.pizza.PresuntoPizza;
-import com.pizza.factory.PizzaStore;
+import com.pizza.store.order.PizzaStore;
 
 
 public class PizzaFilialSalvador extends PizzaStore {
@@ -27,7 +24,7 @@ public IPizza createPizza(String type)
 		
 		if(type.equals("CheesePizza"))
 		{
-			pizza=new CheesePizzaEspecialAmericano();
+			pizza=new CheesePizzaSalvador();
 		}
 		
 		
