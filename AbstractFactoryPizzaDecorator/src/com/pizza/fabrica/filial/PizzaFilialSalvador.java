@@ -7,7 +7,7 @@ import com.pizza.store.order.PizzaStore;
 
 
 public class PizzaFilialSalvador extends PizzaStore {
-
+	private IPizza pizza=null;
 	public PizzaFilialSalvador() {
 		super();
 		// TODO Auto-generated constructor stub
@@ -19,7 +19,7 @@ public class PizzaFilialSalvador extends PizzaStore {
 public IPizza createPizza(String type)
 	
 	{
-		IPizza pizza=null;
+		
 		//inserir metodo aqui
 		
 		if(type.equals("CheesePizza"))
