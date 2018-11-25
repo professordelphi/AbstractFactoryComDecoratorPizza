@@ -1,0 +1,14 @@
+2018-11-22 17:55:36,036 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.padroes:aula-strategy:1.0-SNAPSHOT @ C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\pom.xml.
+2018-11-22 17:55:36,473 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aula-strategy/src/main/java
+2018-11-22 17:55:36,473 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /aula-strategy/src/test/java
+2018-11-22 17:55:36,551 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-11-22 17:55:36,837 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.padroes:aula-strategy:1.0-SNAPSHOT @ C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\pom.xml.
+2018-11-22 17:55:37,129 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-22 17:55:37,129 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\src\main\resources
+2018-11-22 17:55:37,129 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-22 17:55:37,129 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\src\test\resources
+2018-11-22 17:55:37,398 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ifpb.padroes:aula-strategy:1.0-SNAPSHOT @ C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\pom.xml.
+2018-11-22 17:55:38,236 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-22 17:55:38,236 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\src\main\resources
+2018-11-22 17:55:38,236 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-22 17:55:38,236 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\marcos.rodrigues\Documents\Marcos\StrategyTransportadora\exemplo-strategy\src\test\resources
